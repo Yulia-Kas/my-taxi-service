@@ -1,5 +1,4 @@
 service\CarServiceImpl.class
-controller\car\GetAllCarController.class
 controller\car\DeleteCarController.class
 dao\DriverDaoImpl.class
 dao\ManufacturerDao.class
@@ -39,3 +38,4 @@ controller\driver\AddDriverController.class
 controller\manufacturer\AddManufacturerController.class
 service\DriverService.class
 controller\LogoutController.class
+controller\car\GetAllCarsController.class

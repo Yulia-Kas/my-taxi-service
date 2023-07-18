@@ -13,6 +13,7 @@ C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\controller\LogoutControl
 C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\model\Driver.java
 C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\service\CarServiceImpl.java
 C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\model\Car.java
+C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\controller\car\GetAllCarsController.java
 C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\controller\car\AddDriverToCarController.java
 C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\dao\CarDao.java
 C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\model\Manufacturer.java
@@ -38,4 +39,3 @@ C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\controller\manufacturer\
 C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\service\GenericService.java
 C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\controller\driver\car\GetMyCurrentCarsController.java
 C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\util\ConnectionUtil.java
-C:\Users\DOM\IdeaProjects\my-taxi-service\src\main\java\controller\car\GetAllCarController.java
