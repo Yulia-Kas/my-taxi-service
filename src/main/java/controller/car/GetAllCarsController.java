@@ -10,7 +10,7 @@ import lib.Injector;
 import model.Car;
 import service.CarService;
 
-public class GetAllCarController extends HttpServlet {
+public class GetAllCarsController extends HttpServlet {
     private static final Injector injector = Injector.getInstance("taxi");
     private final CarService carService = (CarService) injector.getInstance(CarService.class);
 

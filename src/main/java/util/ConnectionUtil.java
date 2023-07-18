@@ -9,7 +9,7 @@ public class ConnectionUtil {
     private static final String URL = "jdbc:mysql://database-1.cixzfg2p2sgx"
             + "mvn clean package.eu-north-1.rds.amazonaws.com:3306/taxi";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "x23092019Ulia";
+    private static final String PASSWORD = "1111";
     private static final String JDBC_DRIVER = "com.msql.cj.jdbc.Driver";
 
     static {

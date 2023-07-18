@@ -1,4 +1,5 @@
-#Tue Jul 11 14:56:30 EEST 2023
+#Tue Jul 18 15:01:00 EEST 2023
+C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\controller\\car\\GetAllCarsController.java=1689248024441
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\lib\\Injector.java=1689073689925
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\model\\Manufacturer.java=1688659815786
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\dao\\CarDaoImpl.java=1689075511909
@@ -25,7 +26,6 @@ C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\controller\\man
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\controller\\car\\DeleteCarController.java=1689072361247
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\web\\filter\\AuthenticationFilter.java=1689076129833
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\controller\\driver\\car\\GetMyCurrentCarsController.java=1689074372435
-C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\controller\\car\\GetAllCarController.java=1689074320737
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\service\\ManufacturerServiceImpl.java=1689073689935
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\service\\DriverService.java=1688660752965
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\service\\CarService.java=1689073689915
@@ -33,7 +33,7 @@ C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\model\\Car.java
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\dao\\ManufacturerDaoImpl.java=1689075307644
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\service\\DriverServiceImpl.java=1689073689950
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\service\\GenericService.java=1688659815635
-C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\util\\ConnectionUtil.java=1688659815736
+C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\util\\ConnectionUtil.java=1689681139592
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\dao\\ManufacturerDao.java=1688660752928
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\controller\\driver\\GetAllDriversController.java=1689074546251
 C\:\\Users\\DOM\\IdeaProjects\\my-taxi-service\\src\\main\\java\\dao\\CarDao.java=1689073689943
